@@ -1,0 +1,46 @@
+@import "tailwindcss";
+*{
+    /* background-color:cadetblue; */
+}
+.h1{
+    font-size: 45px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.body{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    background-color: cadetblue;
+    height: 100vh;
+    
+}
+
+.block{
+    background-color: bisque;
+    width: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.block:hover {
+    transform: scale(1.1); /* Zooms 10% */
+  
+  }
+.h2{
+    font-size: 45px;
+    font-weight: bolder;
+}
+.power{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    font-size: 15px;
+}
+.p{
+    padding: 15px;
+}

@@ -1,0 +1,42 @@
+.first{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1{
+   font-size: 45px;
+   font-weight: 500;
+   padding: 10px;
+   color: white;
+}
+.input-box{
+    background-color: white;
+    border-style: none;
+    padding: 6px;
+    border-radius: 0px 10px 10px 0px;
+    outline: none;
+    
+}
+.second{
+    display: flex;
+}
+.text{
+    font-weight: 300;
+    font-size: 25px;
+    color: white;
+}
+.third{
+    display: flex;
+    flex-direction: column;
+}
+.btn{
+    padding: 6px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(23, 118, 241);
+    margin: 5px;
+}
+.fourth{
+    margin: 10px;
+}

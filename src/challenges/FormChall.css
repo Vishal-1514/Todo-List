@@ -1,0 +1,30 @@
+.Form-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    
+}
+.h1{
+    font-size: 45px;
+    font-weight: 500;
+    color: white;
+}
+.text1{
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    margin: 5px;
+
+}
+.input1{
+    background-color: white;
+    margin: 5px;
+    
+}
