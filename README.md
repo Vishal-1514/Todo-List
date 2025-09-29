@@ -1,12 +1,59 @@
-# React + Vite
+````markdown
+# 📝 React Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive **Todo List application** built with **React.js**.  
+This project helps you manage daily tasks with features like adding, deleting, and marking tasks as complete.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- ➕ Add new tasks  
+- ✅ Mark tasks as completed  
+- ❌ Delete tasks  
+- 💾 Data persistence using local storage (if implemented)  
+- 📱 Responsive and user-friendly UI  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **React.js** – Frontend library  
+- **JavaScript (ES6+)** – Programming language  
+- **CSS** – Styling  
+- **LocalStorage** (optional) – Save tasks locally  
+
+---
+
+## 📦 Installation & Setup
+Follow these steps to run the app locally:
+
+```bash
+# 1. Clone this repository
+git clone https://github.com/your-username/todo-list-app.git
+
+# 2. Navigate into the project folder
+cd todo-list-app
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm start
+````
+
+The app will now run at **[http://localhost:3000/](http://localhost:3000/)**
+
+---
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repo and submit a pull request.
+
+---
+
+
+👨‍💻 Developed by [Vishal Verma]
+
+```
+```
