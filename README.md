@@ -23,22 +23,6 @@ This project helps you manage daily tasks with features like adding, deleting, a
 
 ---
 
-## 📦 Installation & Setup
-Follow these steps to run the app locally:
-
-```bash
-# 1. Clone this repository
-git clone https://github.com/your-username/todo-list-app.git
-
-# 2. Navigate into the project folder
-cd todo-list-app
-
-# 3. Install dependencies
-npm install
-
-# 4. Start the development server
-npm start
-````
 
 The app will now run at **[http://localhost:3000/](http://localhost:3000/)**
 
